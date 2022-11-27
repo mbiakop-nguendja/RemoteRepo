@@ -1,0 +1,1 @@
+original code to deploy 1 new EC2 instance
